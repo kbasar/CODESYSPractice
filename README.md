@@ -31,6 +31,7 @@ We have gon through more detail about the PLC Training Program.
 1. We shall start from installation of the Codesys software ( including how to download it)
 2. We have plan to start with basic ST ( Structured text) instructions and then moving towards implementing sensors, actuators and finally creating some example projects.
 3. Talked about how we use Github to store our Codesys codes in repository as Public, so every one can access it from anywhere.
+4. Talked in detail: How to choose company, when to switch company, knowing each others.
 
 ## Day 2 - Installation and preparing PLC first project: PLC Programming using Codesys ( Day 2 - Installation and Basics of Codesys Project, Blocks and Variables )
 1. Downloading & Installation of Codesys software
