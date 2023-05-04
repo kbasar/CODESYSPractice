@@ -52,5 +52,5 @@ We have gon through more detail about the PLC Training Program.
 6. Example 1: Temperature COntrol is implemented where one temperature sensor and one digital Control Output is control based on Hi limit and low limit.
 Output is off when temperature is higher than Hi limit and output is On when Temperature lower than low limit. There is two timers - OnDelay (5s) and OffDelay(5s) is also used to prevent quick on/off of heating element connected to the Output.
 ### Problem to fix
-There was one issue we faced - we declared the TON inside FB but it was saying the variable is not defined. It was due library not available in newly installed Codesys.
+There was one issue we faced - we declared the TON inside FB but it was saying the variable is not defined. It was due to library not available in the newly installed Codesys.
 Single line Comment/ Multi-line comments
