@@ -42,3 +42,15 @@ We have gon through more detail about the PLC Training Program.
 6. Assigning variable or values into another variable: through the example of Starting or stopping a motor.
 7. NO/NC (Normally open/Normally Close) type pushbutton/Switch/Sensor: How it behaves in real-life with PLC software.
 8. Single line Comment/ Multi-line comments
+
+## Day 3 - Simple Temperature COntrol System: PLC Programming using Codesys
+1. Started with creating new Codesys project from Empty Template vs Standard Template. 
+2. Working with multiple instances of codesys software
+3. Exporting by OpenExport/Import option
+4. Creating Codesys blocks - PRG, FB & FC
+5. Declaring Standard Variables inside blocks.
+6. Example 1: Temperature COntrol is implemented where one temperature sensor and one digital Control Output is control based on Hi limit and low limit.
+Output is off when temperature is higher than Hi limit and output is On when Temperature lower than low limit. There is two timers - OnDelay (5s) and OffDelay(5s) is also used to prevent quick on/off of heating element connected to the Output.
+### Problem to fix
+There was one issue we faced - we declared the TON inside FB but it was saying the variable is not defined. It was due library not available in newly installed Codesys.
+Single line Comment/ Multi-line comments
