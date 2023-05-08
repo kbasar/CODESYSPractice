@@ -54,3 +54,12 @@ Output is off when temperature is higher than Hi limit and output is On when Tem
 ### Problem to fix
 There was one issue we faced - we declared the TON inside FB but it was saying the variable is not defined. It was due to library not available in the newly installed Codesys.
 Single line Comment/ Multi-line comments
+
+## Day 4 - Simple Temperature COntrol System Logic used for Flashing Light: How to adapt one logic to other different tasks & FOR LOOP
+### Example -1 Flashing light logic created using two TON timers.  
+2. Simulated the logic.
+3. Made explanation as how to adapt one logic to others tasks - such as temperature control logic used in flashing light solution.
+
+### Example -2  - FOR LOOP : A simple example project 
+1. FOR LOOP is programmed to calculate average of 5 power monitor's KW variable and also return total KW
+2. Used ChatGPT to write code for FOR LOOP, WHILE DO loop and Repeat Until Loop - possibility is too impressive
