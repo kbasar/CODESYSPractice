@@ -67,7 +67,14 @@ Single line Comment/ Multi-line comments
 ## Day 5 (9-May, Tuesday): What is Laser Sensor & How it Works?
 1. Laser (Light Amplification by Simulated Emission of Radiation)
 2. Link to Automation.com article: https://automationforum.co/what-is-laser-sensor-how-it-works/ 
-3. ### Example-1: Detect box and count.
+  - https://www.elprocus.com/laser-sensor-working-and-its-applications/
+  - https://www.apogeeweb.net/electron/The-Function-And-Principle-Of-Laser-Sensor.html
+  - https://www.keyence.com/products/sensor/positioning/
+  - https://www.youtube.com/watch?v=RBqidWX7B3E&t=968s   
+  - https://www.youtube.com/watch?v=cSe7kQiASPY&t=65s
+  - https://www.youtube.com/watch?v=DVq10SGKHMU&t=225s (sensor, transmitter, transducer)
+  - https://www.youtube.com/watch?v=2pdvvqkguA4&t=44s (pnp, npn sensor)
+4. ### Example-1: Detect box and count.
 
 ##  Day 6 (12-May, Friday): What are alarm, trip point, and alarm priority in DCS & PLC?
 1. Refer following article: https://automationforum.co/what-are-alarm-trip-point-and-alarm-priority-in-dcs-plc/
