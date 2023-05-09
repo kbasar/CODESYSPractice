@@ -64,7 +64,12 @@ Single line Comment/ Multi-line comments
 1. FOR LOOP is programmed to calculate average of 5 power monitor's KW variable and also return total KW
 2. Used ChatGPT to write code for FOR LOOP, WHILE DO loop and Repeat Until Loop - possibility is too impressive
 
-## Day 5 (9-May): What is Laser Sensor & How it Works?
+## Day 5 (9-May, Tuesday): What is Laser Sensor & How it Works?
 1. Laser (Light Amplification by Simulated Emission of Radiation)
 2. Link to Automation.com article: https://automationforum.co/what-is-laser-sensor-how-it-works/ 
 3. ### Example-1: Detect box and count.
+
+##  Day 6 (12-May, Friday): What are alarm, trip point, and alarm priority in DCS & PLC?
+1. Refer following article: https://automationforum.co/what-are-alarm-trip-point-and-alarm-priority-in-dcs-plc/
+2. Understanding various types of alarms
+3. ###Example-1 : Making alarm logic
