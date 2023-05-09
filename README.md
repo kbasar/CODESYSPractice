@@ -63,3 +63,8 @@ Single line Comment/ Multi-line comments
 ### Example -2  - FOR LOOP : A simple example project 
 1. FOR LOOP is programmed to calculate average of 5 power monitor's KW variable and also return total KW
 2. Used ChatGPT to write code for FOR LOOP, WHILE DO loop and Repeat Until Loop - possibility is too impressive
+
+## Day 5 (9-May): What is Laser Sensor & How it Works?
+1. Laser (Light Amplification by Simulated Emission of Radiation)
+2. Link to Automation.com article: https://automationforum.co/what-is-laser-sensor-how-it-works/ 
+3. ### Example-1: Detect box and count.
