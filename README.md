@@ -66,7 +66,8 @@ Single line Comment/ Multi-line comments
 
 ## Day 5 (9-May, Tuesday): What is Laser Sensor & How it Works?
 1. Laser (Light Amplification by Simulated Emission of Radiation)
-2. Link to Automation.com article: https://automationforum.co/what-is-laser-sensor-how-it-works/ 
+2. Link to Automation.com article: 
+  - https://automationforum.co/what-is-laser-sensor-how-it-works/ 
   - https://www.elprocus.com/laser-sensor-working-and-its-applications/
   - https://www.apogeeweb.net/electron/The-Function-And-Principle-Of-Laser-Sensor.html
   - https://www.keyence.com/products/sensor/positioning/
