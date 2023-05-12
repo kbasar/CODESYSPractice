@@ -81,3 +81,4 @@ Single line Comment/ Multi-line comments
 1. Refer following article: https://automationforum.co/what-are-alarm-trip-point-and-alarm-priority-in-dcs-plc/
 2. Understanding various types of alarms
 3. ###Example-1 : Making alarm logic
+4. Understanding Remote Job in PLC/HMI/SCADA (Automation/Test/Dev) job: Cloud Computing/ AWS/Azure
