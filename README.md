@@ -82,3 +82,4 @@ Single line Comment/ Multi-line comments
 2. Understanding various types of alarms
 3. ###Example-1 : Making alarm logic
 4. Understanding Remote Job in PLC/HMI/SCADA (Automation/Test/Dev) job: Cloud Computing/ AWS/Azure
+####> Random function in codesys to generate number
