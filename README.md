@@ -83,3 +83,9 @@ Single line Comment/ Multi-line comments
 3. ###Example-1 : Making alarm logic
 4. Understanding Remote Job in PLC/HMI/SCADA (Automation/Test/Dev) job: Cloud Computing/ AWS/Azure
 ####> Random function in codesys to generate number
+
+##  Day 7 (16-May, Tuesday): Everything about Valves, DO, DI, Control, Open/Close, Fail alarms?
+1. ###Example-1 : Making different valve control logic
+2. Understanding Valves and IOS
+3.CheatSheet for Agile Framework: https://pdfgate.net/the-definitive-guide-to-scrum-pdf/)
+
