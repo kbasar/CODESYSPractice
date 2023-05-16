@@ -85,7 +85,27 @@ Single line Comment/ Multi-line comments
 ####> Random function in codesys to generate number
 
 ##  Day 7 (16-May, Tuesday): Everything about Valves, DO, DI, Control, Open/Close, Fail alarms?
-1. ###Example-1 : Making different valve control logic
-2. Understanding Valves and IOS
-3.CheatSheet for Agile Framework: https://pdfgate.net/the-definitive-guide-to-scrum-pdf/)
+  ### Understanding Valves
+  - Glove Valve Animation: https://youtu.be/KWN9vJq9Z1M?t=100
+  - Ball Valve animation: https://youtu.be/NkunrVVtqVQ?t=74
+  - Butterfly valve animation: https://youtu.be/E4q42JB-OM0?t=55
+  - Gate valve animation: https://youtu.be/C5ZMLWujKGs?t=9
+  - Check Valve animation: https://youtu.be/MsHMIaw9QDo?t=42
+  - Diaphragm valve animation: https://youtu.be/dxelSWY6bhg?t=43
+  - Niddle valve animation: https://youtu.be/CzBB1CEAAS4?t=106
+  - Pressure relief Valve animation: (Direct acting) https://youtu.be/bvp7Zqls7Fw?t=54, 
+                                     (pilot operated) https://youtu.be/bvp7Zqls7Fw?t=123
+                                     
+  ### Valve Manufacturers:
+  - https://www.spiraxsarco.com/global/en-IN/products/control-systems
+  - https://www.circor.com/products/valves
+  - https://www.asahi-america.com/valves-and-actuation/actuated-valves
+  - https://products.swagelok.com/en/all-products/valves/c/200?clp=true
+
+  ### Understanding IOs/ Connections / Communication with PLC
+    - How many IOs required for a valve?
+  
+  ### Example-1 : Making different valve control logic 
+
+  ### CheatSheet for Agile Framework: https://pdfgate.net/the-definitive-guide-to-scrum-pdf/)
 
