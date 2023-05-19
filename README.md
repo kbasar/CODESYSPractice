@@ -109,3 +109,18 @@ Single line Comment/ Multi-line comments
 
   ### CheatSheet for Agile Framework: https://pdfgate.net/the-definitive-guide-to-scrum-pdf/)
 
+## Day 8 (19-May-2023, Friday): Understanding Instruments & ISA symbols, P&ID, Control Circuit /Electrical Drawing for PLC Programming
+- https://theinstrumentguru.com/instrumentation-symbol/
+- https://instrumentationtools.com/piping-and-instrumentation-drawing-pid-tutorials-part-3/
+- https://blog.projectmaterials.com/instrumentation/pid-symbols/
+- https://instrumentationtools.com/isa-codes-symbols-for-process-instrumentation/
+- https://hardhatengineer.com/how-to-read-pid-pefs-drawings/
+- http://integrated.cc/cse/Instrumentation_Symbols_and_Identification.pdf
+  
+  ### Creating proper variable, Function Block Names, function name names in PLC Programming
+    - Naming Function Blocks
+    - Naming Function
+    - Naming Variables
+    - Structuring Projects
+  
+  
