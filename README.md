@@ -122,5 +122,18 @@ Single line Comment/ Multi-line comments
     - Naming Function
     - Naming Variables
     - Structuring Projects
-  
+   #### Ref:
+   
+    - (Intro) https://en.wikipedia.org/wiki/Naming_convention_(programming)
+    - https://www.controleng.com/articles/plc-tag-and-address-naming-conventions/
+    - https://www.linkedin.com/pulse/plc-naming-conventions-jakob-sagatowski/
+    - https://infosys.beckhoff.com/english.php?content=../content/1033/tcplccontrol/12703362827.html&id=1702208969213382648
+    - https://infosys.beckhoff.com/english.php?content=../content/1033/te1200_tc3_plcstaticanalysis/3471943051.html&id=
+    - https://plcopen.org/guidelines/guidelines
+    - https://content.helpme-codesys.com/en/LibDevSummary/varnames.html
+    - https://product-help.schneider-electric.com/Machine%20Expert/V1.1/en/LibDevSummary/topics/varnames.htm
+    - https://www.ace-net.com/blog/why-you-need-to-standardize-your-plc-variable-naming-conventions
+    - https://library.e.abb.com/public/16c8d6530e9c448084913f674a196e8f/AN00244_PLC_coding_style_Rev_A_EN.pdf
+    - https://support.industry.siemens.com/cs/document/81318674/programming-guidelines-and-programming-styleguide-for-simatic-s7-1200-and-s7-1500-and-wincc-(tia-portal)?dti=0&lc=en-WW
+    - https://support.industry.siemens.com/cs/document/109478084/programming-styleguide-for-s7-1200-1500?dti=0&lc=en-US
   
