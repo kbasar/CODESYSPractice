@@ -137,3 +137,8 @@ Single line Comment/ Multi-line comments
     - https://support.industry.siemens.com/cs/document/81318674/programming-guidelines-and-programming-styleguide-for-simatic-s7-1200-and-s7-1500-and-wincc-(tia-portal)?dti=0&lc=en-WW
     - https://support.industry.siemens.com/cs/document/109478084/programming-styleguide-for-s7-1200-1500?dti=0&lc=en-US
   
+## Day 9 (23-May-2023, Tuesday): Using Cloud Computers from AWS to use free for 12 months. Install PLC software in EC2 instance and practice.
+  ### Sign up to AWS
+  ### Create EC2 instance with default Free -for 12months features
+  ### Connect to EC2 instance remotely and install all the software required. Remember storage is limited
+  ### Use the EC2 instance for free for next 12months. Remember to close before expiry.
