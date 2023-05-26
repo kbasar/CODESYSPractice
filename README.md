@@ -144,5 +144,6 @@ Single line Comment/ Multi-line comments
   4. Use the EC2 instance for free for next 12months. Remember to close before expiry.
 ## Day 10 (26-May-2023, Friday): Why and How to structure large PLC Projects
   1. Going through slides of Siemens based project structure( FB/FC)
-  2. Few Example - Valves with differences
-  3.Revisiting Virtual ENvironment
+  2.  Resource: https://www.plctutorialpoint.com/siemens-plc-programming-obs-in-siemens/
+  3. Few Example - Valves with differences
+  4.Revisiting Virtual ENvironment
