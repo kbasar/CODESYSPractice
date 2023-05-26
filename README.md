@@ -138,11 +138,11 @@ Single line Comment/ Multi-line comments
     - https://support.industry.siemens.com/cs/document/109478084/programming-styleguide-for-s7-1200-1500?dti=0&lc=en-US
   
 ## Day 9 (23-May-2023, Tuesday): Using Cloud Computers from AWS to use free for 12 months. Install PLC software in EC2 instance and practice.
-  ### Sign up to AWS
-  ### Create EC2 instance with default Free -for 12months features
-  ### Connect to EC2 instance remotely and install all the software required. Remember storage is limited
-  ### Use the EC2 instance for free for next 12months. Remember to close before expiry.
+  1. Sign up to AWS
+  2. Create EC2 instance with default Free -for 12months features
+  3. Connect to EC2 instance remotely and install all the software required. Remember storage is limited
+  4. Use the EC2 instance for free for next 12months. Remember to close before expiry.
 ## Day 10 (26-May-2023, Friday): Why and How to structure large PLC Projects
-  ### Going through slides of Siemens based project structure( FB/FC)
-  ### Few Example - Valves with differences
-  ### Revisiting Virtual ENvironment
+  1. Going through slides of Siemens based project structure( FB/FC)
+  2. Few Example - Valves with differences
+  3.Revisiting Virtual ENvironment
