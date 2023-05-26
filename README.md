@@ -142,3 +142,7 @@ Single line Comment/ Multi-line comments
   ### Create EC2 instance with default Free -for 12months features
   ### Connect to EC2 instance remotely and install all the software required. Remember storage is limited
   ### Use the EC2 instance for free for next 12months. Remember to close before expiry.
+## Day 10 (26-May-2023, Friday): Why and How to structure large PLC Projects
+  ### Going through slides of Siemens based project structure( FB/FC)
+  ### Few Example - Valves with differences
+  ### Revisiting Virtual ENvironment
