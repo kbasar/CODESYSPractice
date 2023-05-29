@@ -147,3 +147,5 @@ Single line Comment/ Multi-line comments
   2.  Resource: https://www.plctutorialpoint.com/siemens-plc-programming-obs-in-siemens/
   3. Few Example - Valves with differences
   4.Revisiting Virtual ENvironment
+## Day 11 (30-May-2023, Tuesday): Pump Operation, Simple, Medium Complex and Very Complex Pump Control System
+  1. Assignment Tracker: https://docs.google.com/spreadsheets/d/1iu7TLtj-9f17kLH066KEcxN7x9sWUltc88tZUe08ZDI/edit?usp=sharing 
